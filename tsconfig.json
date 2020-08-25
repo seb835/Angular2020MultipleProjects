@@ -6,5 +6,12 @@
 */
 {
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./projects/backend/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/backend/tsconfig.spec.json"
+    }
+]
 }
